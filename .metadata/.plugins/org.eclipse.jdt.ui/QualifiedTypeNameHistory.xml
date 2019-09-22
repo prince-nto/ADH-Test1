@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+    <fullyQualifiedTypeName name="javax.faces.bean.SessionScoped"/>
+    <fullyQualifiedTypeName name="model.Transaction"/>
+    <fullyQualifiedTypeName name="javax.faces.bean.ManagedProperty"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.Generated"/>
+    <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="service.TransactionEJB"/>
+    <fullyQualifiedTypeName name="model.TransactionEntity"/>
+    <fullyQualifiedTypeName name="javax.ejb.EJB"/>
+</qualifiedTypeNameHistroy>

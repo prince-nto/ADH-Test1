@@ -1,0 +1,10 @@
+#Sun Sep 22 03:13:21 SAST 2019
+ct=jbt
+a=installed
+c=1
+s=0
+d=1569114801144
+v=2.2.202
+cmp=usage
+cl=AS-RUNTIME
+l=Installed plugins\: AS-RUNTIME

@@ -1,0 +1,1 @@
+C:\jboss-as-7.1.1.Final\jboss-as-7.1.1.Final\modules\javax\persistence\api\main
